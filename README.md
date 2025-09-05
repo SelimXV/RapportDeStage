@@ -2,10 +2,6 @@
 
 > Application de gestion des stages et comptes rendus développée en PHP/MySQL avec Bootstrap
 
-[![PHP Version](https://img.shields.io/badge/PHP-8.1+-blue.svg)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://mysql.com)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple.svg)](https://getbootstrap.com)
-
 ## 📋 Table des matières
 
 - [Vue d'ensemble](#vue-densemble)
